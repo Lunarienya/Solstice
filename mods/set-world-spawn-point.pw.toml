@@ -1,0 +1,13 @@
+name = "Set World Spawn Point"
+filename = "setworldspawnpoint-1.21.4-3.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/EL8fq1gi/versions/BCkJsXs5/setworldspawnpoint-1.21.4-3.5.jar"
+hash-format = "sha1"
+hash = "b4ef679f21480c8ef0f93f0b7a118e0351e6284e"
+
+[update]
+[update.modrinth]
+mod-id = "EL8fq1gi"
+version = "BCkJsXs5"

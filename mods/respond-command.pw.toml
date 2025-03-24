@@ -1,0 +1,13 @@
+name = "Respond command"
+filename = "RespondMod-1.0+1.21.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/mLelmInB/versions/t0GxPUys/RespondMod-1.0%2B1.21.2.jar"
+hash-format = "sha1"
+hash = "0c7b256be9624bf9616b63683627affc86da5d7a"
+
+[update]
+[update.modrinth]
+mod-id = "mLelmInB"
+version = "t0GxPUys"

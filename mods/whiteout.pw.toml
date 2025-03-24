@@ -1,0 +1,13 @@
+name = "Whiteout"
+filename = "whiteout-0.14.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/5piZC07n/versions/ckvMvpIt/whiteout-0.14.2.jar"
+hash-format = "sha1"
+hash = "1beedd173a4830a61d80444bb6a588c6d88a11aa"
+
+[update]
+[update.modrinth]
+mod-id = "5piZC07n"
+version = "ckvMvpIt"

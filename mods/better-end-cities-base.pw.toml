@@ -1,0 +1,13 @@
+name = "Better End Cities Vanilla"
+filename = "betterendcities-vanilla-1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/FEChYs43/versions/AQrPtVSv/betterendcities-vanilla-1.21.jar"
+hash-format = "sha1"
+hash = "c940d1dafdecaa1275649875020dd03f5c63dc90"
+
+[update]
+[update.modrinth]
+mod-id = "FEChYs43"
+version = "AQrPtVSv"

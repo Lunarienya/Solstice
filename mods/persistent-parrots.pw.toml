@@ -1,0 +1,13 @@
+name = "Persistent Parrots"
+filename = "persistent-parrots-1.0+1.21.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/op2i7EQi/versions/xM2Vt015/persistent-parrots-1.0%2B1.21.2.jar"
+hash-format = "sha1"
+hash = "f05e9cc195c7c2a958a4b93b367130ab70535e7f"
+
+[update]
+[update.modrinth]
+mod-id = "op2i7EQi"
+version = "xM2Vt015"

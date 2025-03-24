@@ -1,0 +1,13 @@
+name = "Dimension Viewer"
+filename = "dimensionviewer-fabric-1.21-2.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3aeFezQk/versions/P3r0S6sb/dimensionviewer-fabric-1.21-2.0.0.jar"
+hash-format = "sha1"
+hash = "38fbc31c12ebdacfd42b26c94b0429ae9a3536cb"
+
+[update]
+[update.modrinth]
+mod-id = "3aeFezQk"
+version = "P3r0S6sb"

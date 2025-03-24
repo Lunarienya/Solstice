@@ -1,0 +1,13 @@
+name = "LifeSteal Server-side"
+filename = "lifesteal-2.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/QgbgZM3a/versions/LwP3nd3p/lifesteal-2.0.1.jar"
+hash-format = "sha1"
+hash = "b0f9372b00b5ad114301c33e128e1af5c49e31bd"
+
+[update]
+[update.modrinth]
+mod-id = "QgbgZM3a"
+version = "LwP3nd3p"

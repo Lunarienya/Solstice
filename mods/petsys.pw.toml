@@ -1,0 +1,13 @@
+name = "PetSys"
+filename = "petsystem-1.21.4-2.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/SYsLlgdF/versions/EqkmUnuH/petsystem-1.21.4-2.0.0.jar"
+hash-format = "sha1"
+hash = "fe619aeda8cd3043f00f937a9a79b084a9a0ebf4"
+
+[update]
+[update.modrinth]
+mod-id = "SYsLlgdF"
+version = "EqkmUnuH"

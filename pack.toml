@@ -1,0 +1,17 @@
+name = "Edge"
+author = "sammyette"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5ed3cfd616a250e39f62d1cd0daff07eb80265b0d6656b4d0901d33c5a1d6400"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.4"
+
+[options]
+acceptable-game-versions = ["1.21"]
+datapack-folder = "resources/datapack"

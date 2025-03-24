@@ -1,0 +1,13 @@
+name = "Crops Love Rain"
+filename = "Crops-Love-Rain-2.4.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/cRci7UZp/versions/JT0fNDm0/Crops-Love-Rain-2.4.1.jar"
+hash-format = "sha1"
+hash = "c7eb3871a920600f335c6cf1b5bbc2ac3480247f"
+
+[update]
+[update.modrinth]
+mod-id = "cRci7UZp"
+version = "JT0fNDm0"

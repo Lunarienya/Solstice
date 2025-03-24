@@ -1,0 +1,13 @@
+name = "Stretchy Leash"
+filename = "stretchy-leash-2.1.1+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/G0HCO06K/versions/GlQCDS2s/stretchy-leash-2.1.1%2B1.21.jar"
+hash-format = "sha1"
+hash = "5b44a7d321e5306a08d5736ed2dd44d1967cdefb"
+
+[update]
+[update.modrinth]
+mod-id = "G0HCO06K"
+version = "GlQCDS2s"

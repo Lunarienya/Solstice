@@ -1,0 +1,13 @@
+name = "No More Phantoms"
+filename = "nomorephantoms-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oNEBROmI/versions/agrr422Q/nomorephantoms-1.0.2.jar"
+hash-format = "sha1"
+hash = "08647ac8f5e2dd130f73909a49fc1a2194053198"
+
+[update]
+[update.modrinth]
+mod-id = "oNEBROmI"
+version = "agrr422Q"

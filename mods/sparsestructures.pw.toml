@@ -1,0 +1,13 @@
+name = "Sparse Structures"
+filename = "sparsestructures-fabric-1.21.4-2.2.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qwvI41y9/versions/lLb0cLHZ/sparsestructures-fabric-1.21.4-2.2.1.jar"
+hash-format = "sha1"
+hash = "dfa76593d06e24fb17c4d4595464767e8cf88528"
+
+[update]
+[update.modrinth]
+mod-id = "qwvI41y9"
+version = "lLb0cLHZ"

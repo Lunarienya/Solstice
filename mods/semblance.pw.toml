@@ -1,0 +1,13 @@
+name = "Semblance"
+filename = "semblance-1.2.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/FFiEdqAn/versions/5MhVYEn5/semblance-1.2.1.jar"
+hash-format = "sha1"
+hash = "395f4468312ac450968b60c363b6a0871d792140"
+
+[update]
+[update.modrinth]
+mod-id = "FFiEdqAn"
+version = "5MhVYEn5"

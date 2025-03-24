@@ -1,0 +1,13 @@
+name = "Blasting Raw Metal Blocks"
+filename = "blastingraw-1.21.4-fabric-3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/URkDEaW4/versions/s1gvBb0c/blastingraw-1.21.4-fabric-3.jar"
+hash-format = "sha1"
+hash = "9f348627d7dc7f725b60e2833b5f655c7e34bcfe"
+
+[update]
+[update.modrinth]
+mod-id = "URkDEaW4"
+version = "s1gvBb0c"

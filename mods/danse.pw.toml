@@ -1,0 +1,13 @@
+name = "danse - serverside gestures / emotes"
+filename = "danse-1.0.4+1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vSdZ5THv/versions/o6fA7uei/danse-1.0.4%2B1.21.4.jar"
+hash-format = "sha1"
+hash = "58f068a6043422e22a1953148b51b65bdae0af2d"
+
+[update]
+[update.modrinth]
+mod-id = "vSdZ5THv"
+version = "o6fA7uei"

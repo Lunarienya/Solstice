@@ -1,0 +1,13 @@
+name = "Music Disc Renderer"
+filename = "music-disc-renderer-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DWc1ogIi/versions/jUgzsEDT/music-disc-renderer-1.0.0.jar"
+hash-format = "sha1"
+hash = "5ce6905549cf2f5142eec653095e637b4d2ddd1a"
+
+[update]
+[update.modrinth]
+mod-id = "DWc1ogIi"
+version = "jUgzsEDT"

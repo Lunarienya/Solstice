@@ -1,0 +1,13 @@
+name = "PvpSys"
+filename = "pvpsystem-1.21.4-2.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/CnLgiUvi/versions/JiidERJ5/pvpsystem-1.21.4-2.1.1.jar"
+hash-format = "sha1"
+hash = "f940e9bfe44648405cbefb4344bc77925b615850"
+
+[update]
+[update.modrinth]
+mod-id = "CnLgiUvi"
+version = "JiidERJ5"

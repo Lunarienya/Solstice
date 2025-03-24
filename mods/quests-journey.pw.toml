@@ -1,0 +1,13 @@
+name = "Quests Journey"
+filename = "quests-journey-5.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/iYLzizji/versions/pt6wcgyr/quests-journey-5.1.jar"
+hash-format = "sha1"
+hash = "3a653243483c91e737cba82244eba9f23f0a6826"
+
+[update]
+[update.modrinth]
+mod-id = "iYLzizji"
+version = "pt6wcgyr"

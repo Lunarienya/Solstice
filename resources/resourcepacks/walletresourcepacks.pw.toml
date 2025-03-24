@@ -1,0 +1,13 @@
+name = "Wallet Resource Packs"
+filename = "Wallet2.0-Resourse-Pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HlZBqN2J/versions/NnLyVhUQ/Wallet2.0-Resourse-Pack.zip"
+hash-format = "sha1"
+hash = "d3e0a2069c653e35cf0ead340f51843755dc89d5"
+
+[update]
+[update.modrinth]
+mod-id = "HlZBqN2J"
+version = "NnLyVhUQ"

@@ -1,0 +1,13 @@
+name = "Resourceful Config"
+filename = "resourcefulconfig-fabric-1.21.4-3.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M1953qlQ/versions/ypVGCY8i/resourcefulconfig-fabric-1.21.4-3.4.3.jar"
+hash-format = "sha1"
+hash = "6dee4b314d23403bcb3d4c19fbd76cfb47557f27"
+
+[update]
+[update.modrinth]
+mod-id = "M1953qlQ"
+version = "ypVGCY8i"

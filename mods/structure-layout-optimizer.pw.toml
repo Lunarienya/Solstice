@@ -1,0 +1,13 @@
+name = "Structure Layout Optimizer"
+filename = "structure_layout_optimizer-fabric-1.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ayPU0OHc/versions/XrQ4AhSJ/structure_layout_optimizer-fabric-1.1.1.jar"
+hash-format = "sha1"
+hash = "9fa2e1a13ad2271ea9daa50c4d4eb1444ac23710"
+
+[update]
+[update.modrinth]
+mod-id = "ayPU0OHc"
+version = "XrQ4AhSJ"

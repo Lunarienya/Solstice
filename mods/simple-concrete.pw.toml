@@ -1,0 +1,13 @@
+name = "Simple Concrete"
+filename = "simpleconcrete-1.0.0-1.21.2-1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/rvaj4n3V/versions/li31XI8K/simpleconcrete-1.0.0-1.21.2-1.21.4.jar"
+hash-format = "sha1"
+hash = "39bfa39944c26f13401404c0550c386efe7ff60e"
+
+[update]
+[update.modrinth]
+mod-id = "rvaj4n3V"
+version = "li31XI8K"

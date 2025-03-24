@@ -1,0 +1,13 @@
+name = "Cactusfix"
+filename = "cactusfix-1.4.0-mc1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z29y9YGt/versions/h4tUlv52/cactusfix-1.4.0-mc1.21.4.jar"
+hash-format = "sha1"
+hash = "8290c64ea9b146b443f860d2acb3ea7898c6fa7a"
+
+[update]
+[update.modrinth]
+mod-id = "Z29y9YGt"
+version = "h4tUlv52"

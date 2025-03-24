@@ -1,0 +1,13 @@
+name = "Saturated Eating"
+filename = "saturated-eating-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/pD0IlV90/versions/Yg3pht3a/saturated-eating-1.0.1.jar"
+hash-format = "sha1"
+hash = "28fc4cab149cc9e206cdf3477c5628353aed919a"
+
+[update]
+[update.modrinth]
+mod-id = "pD0IlV90"
+version = "Yg3pht3a"

@@ -1,0 +1,13 @@
+name = "Conduits Prevent Drowned"
+filename = "conduitspreventdrowned-1.21.4-3.9.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/kpKchl4x/versions/LcH6w3rS/conduitspreventdrowned-1.21.4-3.9.jar"
+hash-format = "sha1"
+hash = "51674291c291f3569936874c63f354d1b9dfafa7"
+
+[update]
+[update.modrinth]
+mod-id = "kpKchl4x"
+version = "LcH6w3rS"

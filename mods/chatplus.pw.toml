@@ -1,0 +1,13 @@
+name = "ChatPlus"
+filename = "chat-plus-0.21.0-mc1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/PVDQIeLz/versions/vaIojGR5/chat-plus-0.21.0-mc1.21.4.jar"
+hash-format = "sha1"
+hash = "2ef533f2ded522c3127a663d52ec924ce4cfa095"
+
+[update]
+[update.modrinth]
+mod-id = "PVDQIeLz"
+version = "vaIojGR5"

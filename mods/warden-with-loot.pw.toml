@@ -1,0 +1,13 @@
+name = "Warden With Loot"
+filename = "warden-with-loot-2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/T2Z3j2pD/versions/23m6NPsT/warden-with-loot-2.0.jar"
+hash-format = "sha1"
+hash = "399ea0c3cedb12caedb70d114ddbb55704fbd636"
+
+[update]
+[update.modrinth]
+mod-id = "T2Z3j2pD"
+version = "23m6NPsT"

@@ -1,0 +1,13 @@
+name = "Custom Paintings"
+filename = "custom-paintings-1.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/25H65ZiW/versions/LXLf2ToN/custom-paintings-1.1.1.jar"
+hash-format = "sha1"
+hash = "12557d38dccfaf89b50b2ede01be3fb17f414555"
+
+[update]
+[update.modrinth]
+mod-id = "25H65ZiW"
+version = "LXLf2ToN"

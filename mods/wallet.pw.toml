@@ -1,0 +1,13 @@
+name = "Wallet"
+filename = "wallet-2.4_1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/PhINBcEt/versions/JwWBkN4t/wallet-2.4_1.21.4.jar"
+hash-format = "sha1"
+hash = "a051ec1ca3baea1f49be7157f4472f180dced6b2"
+
+[update]
+[update.modrinth]
+mod-id = "PhINBcEt"
+version = "JwWBkN4t"
