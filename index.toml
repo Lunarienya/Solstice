@@ -21,6 +21,11 @@ hash = "ac4e645300bbcd9d1ef10666ffe16e8e02c1a948fadbafb826940496430352c4"
 metafile = true
 
 [[files]]
+file = "mods/ancestral-archetypes.pw.toml"
+hash = "c98c4f57f505fbeaa7692c2822130aff3225836574835ed5541abde4dc57d55a"
+metafile = true
+
+[[files]]
 file = "mods/anvil-restoration.pw.toml"
 hash = "f06b7e724b93a5ffb1ba11ab5090a51b60559c32a844c31aa0302bff55a7ca80"
 metafile = true
