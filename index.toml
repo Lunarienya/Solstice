@@ -26,6 +26,11 @@ hash = "f06b7e724b93a5ffb1ba11ab5090a51b60559c32a844c31aa0302bff55a7ca80"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "db77df7813f6b21f74065229e3ae8568c02209543efadeb1a4eebd40fb520ea8"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "1bd558845ef2c50c8737712da57f50404b001cedc3a1b69711d33eb74de2b02e"
 metafile = true
@@ -271,11 +276,6 @@ hash = "e42114f68d45122e358fd86330cbf2e67729be86da464c98034cde2981408257"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "6b0efa6d411faf50dedc9326b9991eea204455e5f39c35a41b8dd3a7513f543c"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "3810f56064a5a6bd20d2bfd67a24f762f0643323969926f84cc1773c32b784a4"
 metafile = true
@@ -333,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "c0f791cad09e48ac8875162a148314a6e1e5b7190819e820197e5bbd3c7f439e"
+metafile = true
+
+[[files]]
+file = "mods/faster-random.pw.toml"
+hash = "31cd9b39f38befed65a8607df20ab6f5e3f43cdf260829d7fc56e400fad12924"
 metafile = true
 
 [[files]]
@@ -771,6 +776,11 @@ hash = "cbb71c22b6f2054c0f6acd46516a1293a9d128f5c2c891bbbc02bba318bd2c52"
 metafile = true
 
 [[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "537ce9a516eaadc60b7498677f30ab1e2fe857a25a36e247f9cd11c565cd895a"
+metafile = true
+
+[[files]]
 file = "mods/tnt-timer.pw.toml"
 hash = "01b460c294892b10422922b9ca13dfaa3286c1d304e49ced777989dfb313be74"
 metafile = true
@@ -778,6 +788,11 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "c00a25b4c37f08fa8a3f7463cf0c3cb9040c18d90e45b75432868ceda30aa8e3"
+metafile = true
+
+[[files]]
+file = "mods/trees-make-sound.pw.toml"
+hash = "3121667b07dde3c54b5e8f839792e70ae3d32bc021706aef6d692d803e309f60"
 metafile = true
 
 [[files]]
