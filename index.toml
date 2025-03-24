@@ -606,6 +606,11 @@ hash = "e8fa46e5c43883dbdc0ad1069813f2b079ea948ff59a6c00defda16363545871"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "2057649daa10fcdc620dfd60eb0caee54b9ff80c80979564873b422fa94e2ced"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "f7776e7a179846450d87c4d04ea51bcdf779939e7e75354a24101571fe551fd3"
 metafile = true
@@ -783,6 +788,11 @@ metafile = true
 [[files]]
 file = "mods/tt20.pw.toml"
 hash = "18d5d5ec5c30d35fc8ff591482d3a8ca8c1c74c4545e2c6920010d2ee26ffef1"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "ab46817bae1ca868a53c0a007fb5edd76b3a1145486ec899d2ccea00cd676dfe"
 metafile = true
 
 [[files]]
