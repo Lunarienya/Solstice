@@ -771,11 +771,6 @@ hash = "cbb71c22b6f2054c0f6acd46516a1293a9d128f5c2c891bbbc02bba318bd2c52"
 metafile = true
 
 [[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "537ce9a516eaadc60b7498677f30ab1e2fe857a25a36e247f9cd11c565cd895a"
-metafile = true
-
-[[files]]
 file = "mods/tnt-timer.pw.toml"
 hash = "01b460c294892b10422922b9ca13dfaa3286c1d304e49ced777989dfb313be74"
 metafile = true
