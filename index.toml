@@ -206,11 +206,6 @@ hash = "24e8a0a284718782288c0c489eff0ca198f43d957a13892362622a51297c8a99"
 metafile = true
 
 [[files]]
-file = "mods/crashexploitfixer.pw.toml"
-hash = "8fef74cc233bff9ee4274495bd75faa82d3b3ac985af03c132201b5776c3959f"
-metafile = true
-
-[[files]]
 file = "mods/crops-love-rain.pw.toml"
 hash = "f69c4f9a74ae4ca89d3ddf0c0b0b09e57c369e98a374ba5749f706d5c8cd4f83"
 metafile = true
