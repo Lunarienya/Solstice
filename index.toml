@@ -890,15 +890,15 @@ hash = "4c9fb624c822e8d9e74c03d859fc67df7ba6eb301e01d3a2926d2a7c6bdb6eb6"
 metafile = true
 
 [[files]]
-file = "resources/resourcepacks/optional/twemoji-visibility.pw.toml"
+file = "resources/resourcepack/optional/twemoji-visibility.pw.toml"
 hash = "8b267c3f723ba9c4abbf57047bede0d937cbbe2982659c7cdf3aafccbec4b16d"
 metafile = true
 
 [[files]]
-file = "resources/resourcepacks/required/Quests Journey [RP].zip"
+file = "resources/resourcepack/required/Quests Journey [RP].zip"
 hash = "ce89b71f9afe3e0b5536a01aa4ef6ecce999956b2990db66152a90147444a8b9"
 
 [[files]]
-file = "resources/resourcepacks/walletresourcepacks.pw.toml"
+file = "resources/resourcepack/required/walletresourcepacks.pw.toml"
 hash = "3888a48f8dc41fa1f918677fed7e802d419ff48ea956c623731d5242449ef12f"
 metafile = true
