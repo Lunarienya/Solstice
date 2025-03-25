@@ -271,6 +271,11 @@ hash = "d708299d6e8f024c4484cf5fac52581532e8f6c80679dc119faf866714163218"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "e42114f68d45122e358fd86330cbf2e67729be86da464c98034cde2981408257"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "3810f56064a5a6bd20d2bfd67a24f762f0643323969926f84cc1773c32b784a4"
 metafile = true
@@ -803,6 +808,11 @@ metafile = true
 [[files]]
 file = "mods/trees-make-sound.pw.toml"
 hash = "3121667b07dde3c54b5e8f839792e70ae3d32bc021706aef6d692d803e309f60"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-polymer.pw.toml"
+hash = "ed261220ddb9f9f0fbd73090b2edf2246ec3e21c9853f38bf15e31a05c0fa5c2"
 metafile = true
 
 [[files]]
