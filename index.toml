@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/BlossomMods/BlossomBack.json"
+hash = "8b7e3dac4b2ac23e0a3419eaf1785a3ace69c2d56c399e767f367dd19d6d24de"
+
+[[files]]
+file = "config/BlossomMods/BlossomTpa.json"
+hash = "b8e05c30d98b55d2d5526d58c9324e1589c43e83043f6bd5b7d8ef0eabb2363d"
+
+[[files]]
 file = "config/craftpresence.json"
 hash = "ba2ef0c453fdd86eba17f40a8b92fe3a3cca1309a9b9e9c0a24e4aa0ba2f7ddf"
+
+[[files]]
+file = "config/semblance.properties"
+hash = "2a5d30dcecc4ccc15c115155535173fae74d5626d896eaa6164d048257ea6e9a"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -646,7 +658,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-right-click.pw.toml"
-hash = "87d7d08f7202abfd48d61785a3a3808993f763dbee5504ea7ba38ab805d14751"
+hash = "6571270a992d1db06e6562d999f431085ec31fc29be94ecac5492e0b10bfa5f9"
 metafile = true
 
 [[files]]

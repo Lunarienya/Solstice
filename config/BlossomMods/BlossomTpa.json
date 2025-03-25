@@ -1,0 +1,6 @@
+{
+  "teleportation": null,
+  "timeout": 120,
+  "standStill": 3,
+  "cooldown": 10
+}
