@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/craftpresence.json"
+hash = "ba2ef0c453fdd86eba17f40a8b92fe3a3cca1309a9b9e9c0a24e4aa0ba2f7ddf"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "c47dcb4f7568d377ce8fee0b5a4ced9aa637e8767702e1704a0adf796a4dddda"
+
+[[files]]
+file = "config/xaeroplus.txt"
+hash = "8d1e7b3ab931bc414402534cc929d60f1355a783a88828e8944dfd85b0820e14"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "bd5d5723c8800a9cc034098d6efd7c128e5d105442761e423af1cacc254c7aa3"
+
+[[files]]
 file = "mods/achievements-optimizer.pw.toml"
 hash = "04459103f52eec13203a7fd666495c215155ea54cb0eee8b5b33eef8b5e28dcb"
 metafile = true
@@ -386,6 +410,11 @@ hash = "d087499a5fd5e3bc67df5c91ed64223b75b1bc029e3c63652dde5df14a4140ed"
 metafile = true
 
 [[files]]
+file = "mods/goml-reserved.pw.toml"
+hash = "bc65497043b8ff7a5dd8e9f3adb331c40690012de1fae64eeaedef73026f545a"
+metafile = true
+
+[[files]]
 file = "mods/grass-seeds.pw.toml"
 hash = "289698d37fcd3829c99652f9f1dfd091c378f19e7faac343193a3f072129087b"
 metafile = true
@@ -426,11 +455,6 @@ hash = "980c97c5afa0ae3d4f0683b1d13c0abe1c00c28f8438c0c62388fc2ee61ab2e5"
 metafile = true
 
 [[files]]
-file = "mods/ive-spoken.pw.toml"
-hash = "6a35dd0fdebf28a6e09f6b1bad24b85f88d4daced0213951355cd21cd0cab722"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "0ad222ec5adbf0fd620b9ab3297cad73273c97db093aaa28d8f5f779fbfacee1"
 metafile = true
@@ -448,11 +472,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
-metafile = true
-
-[[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "ef1c06f29396bdd54287d151f21dbc3bf2d8962775ac50844d00809dbfe50e99"
 metafile = true
 
 [[files]]
@@ -542,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/nomorephantoms.pw.toml"
-hash = "f49164643c8a7bcb1246141390fe9e7abbf75d44d6a2b268839cb72d5606f4c6"
+hash = "5f3c70f6e84e6f1de8d9e3d319a6e01b4f6c028e3a9f3d81a6d972f64031e7f2"
 metafile = true
 
 [[files]]
@@ -646,11 +665,6 @@ hash = "f7776e7a179846450d87c4d04ea51bcdf779939e7e75354a24101571fe551fd3"
 metafile = true
 
 [[files]]
-file = "mods/resourcepackcached.pw.toml"
-hash = "1c1db7f3bdb81302494dc6fe10bcb3acde8edad0086f25a7da0e90cdb2c6798e"
-metafile = true
-
-[[files]]
 file = "mods/respond-command.pw.toml"
 hash = "1b3c107ad92d987e9d847ec3ad7751c2d333421ed6e309616221803936e62c6d"
 metafile = true
@@ -678,6 +692,11 @@ metafile = true
 [[files]]
 file = "mods/separatedleaves.pw.toml"
 hash = "eb9d7875d9205325f7dc756222a45cf91c5589504683c5d15770ff3406e45561"
+metafile = true
+
+[[files]]
+file = "mods/server-resource-pack-checker.pw.toml"
+hash = "9df9f352ba70581794f2e1c78e9125319dec85da4d8ddb7fa4e1ebd298158105"
 metafile = true
 
 [[files]]
@@ -831,6 +850,16 @@ hash = "ab46817bae1ca868a53c0a007fb5edd76b3a1145486ec899d2ccea00cd676dfe"
 metafile = true
 
 [[files]]
+file = "mods/ultimate-roleplay-kit-mail.pw.toml"
+hash = "db01ffe6bdf0ac735ed557a8db6cd7bf809119275aa62346447e0dabaf8a9876"
+metafile = true
+
+[[files]]
+file = "mods/ultimate-roleplay-kit.pw.toml"
+hash = "504dfb834bf297aed83b3ade7952eeaf06380e15f992a0ddf2208f4c1c35f525"
+metafile = true
+
+[[files]]
 file = "mods/unilib.pw.toml"
 hash = "73f9718c089f37a013b844899efc1f0fa6895e41a3313cfda425213616c9c67f"
 metafile = true
@@ -974,6 +1003,10 @@ file = "resources/datapack/unlock all recipes v2.0.11 (MC 1.21-1.21.4).zip"
 hash = "40bd7d9f8f151033a206d7ea20a72dd5067a23c1e161e02fc18fb341dab66ab6"
 
 [[files]]
+file = "resources/resourcepack/optional/Dark UI.zip"
+hash = "f05f807c16c98ece136cd36d3ac19abc492be8cf5ee9e4cef72ab79089ec5bd5"
+
+[[files]]
 file = "resources/resourcepack/optional/Lunarie Meme Pack.zip"
 hash = "cb8b2b097e9a01f599bdc728b581259d67f26d2a8eec101b7d518471cdaee873"
 
@@ -993,6 +1026,11 @@ hash = "590cf304d22052ff7e3e1e5b4f096a71b11948efe0919333255c083c4b15d903"
 [[files]]
 file = "resources/resourcepack/required/Quests Journey [RP].zip"
 hash = "ce89b71f9afe3e0b5536a01aa4ef6ecce999956b2990db66152a90147444a8b9"
+
+[[files]]
+file = "resources/resourcepack/required/ultimate-roleplay-kit-resourcepack.pw.toml"
+hash = "d5c30b1c47c45c000381e238d8ec68f42e1d9d8d566c3c9e28d98b6ad3d1ba2b"
+metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/walletresourcepacks.pw.toml"

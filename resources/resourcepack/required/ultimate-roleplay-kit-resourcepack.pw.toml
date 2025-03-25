@@ -1,0 +1,13 @@
+name = "Ultimate Roleplay Kit - Resourcepack"
+filename = "UltimateRoleplayKit - v2.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Updz14id/versions/AgoOXaBI/UltimateRoleplayKit%20-%20v2.0.0.zip"
+hash-format = "sha1"
+hash = "733bdf30bc4598c0c541d9a51f02701f78acf3ad"
+
+[update]
+[update.modrinth]
+mod-id = "Updz14id"
+version = "AgoOXaBI"

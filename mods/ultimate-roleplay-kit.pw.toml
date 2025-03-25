@@ -1,0 +1,13 @@
+name = "Ultimate Roleplay Kit - Hats"
+filename = "ultimate-roleplay-kit-urk-hats-v1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/5OyO3XKw/versions/P6SiNB8N/ultimate-roleplay-kit-urk-hats-v1.1.jar"
+hash-format = "sha1"
+hash = "b9d5b6fe274e79e2260df96e75fd2a86aaa258e3"
+
+[update]
+[update.modrinth]
+mod-id = "5OyO3XKw"
+version = "P6SiNB8N"
