@@ -1,4 +1,4 @@
-name = "Edge"
+name = "Solstice"
 author = "sammyette"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,12 +6,12 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "700d30252fed0a0b5c524742ce0bcb1e7aed3179ad735f6008ddc03c8fe10513"
+hash = "e18f5a57adff7daa8dc084d9dc3472f1e488f57cad0a8a09a394e37a312889fd"
 
 [versions]
 fabric = "0.16.10"
 minecraft = "1.21.4"
 
 [options]
-acceptable-game-versions = ["1.21"]
+acceptable-game-versions = ["1.21.3"]
 datapack-folder = "resources/datapack"

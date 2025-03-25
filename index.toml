@@ -870,12 +870,40 @@ file = "resources/datapack/Dungeons+ 1.9.0.zip"
 hash = "b67ff6908c2862ab603bf172a19235ba702dffeee6e541e9945ab3994388fcc9"
 
 [[files]]
+file = "resources/datapack/Incendium_1.21_UNSUPPORTED_PORT_v5.4.4.zip"
+hash = "6efe2a4f989ea912eb6939c3c20c76c7c4653cbd437cbb4b0d66e282efe6d722"
+
+[[files]]
+file = "resources/datapack/Lodestone Backport [1.21.x].zip"
+hash = "0261e52991012bb19a364830c8657d78684f97180fa20e7759cdd82d685b4df9"
+
+[[files]]
+file = "resources/datapack/Lunarie Crafts Pack.zip"
+hash = "4fda67fc9742c15dfb5a744485ff914f8a12ea1c9f947571b2af14083965c6bd"
+
+[[files]]
+file = "resources/datapack/MinGen v4.3 for 1.20x-1.21x.zip"
+hash = "92b7dd8ce05fd5d5ca97e53cea4f22bc3baa8e66862f020aa96ef91214bf0b45"
+
+[[files]]
 file = "resources/datapack/Pale Garden Remastered v1.2.1.zip"
 hash = "ca633cf2514c3c696201cb5dcd632480dfb56e96f4d73de6a7aa4c34e5461b60"
 
 [[files]]
+file = "resources/datapack/Warden With Loot 1.21.2-1.21.4.zip"
+hash = "dd3209732947ea3703f99ea27b66ac680b28d02a1070e429d620cb59e2c43cba"
+
+[[files]]
 file = "resources/datapack/banner-flags-v2-8.zip"
 hash = "1430cb3d92abca3618af71debd68628e11b9872a97fd8e33f8071748b7c7d924"
+
+[[files]]
+file = "resources/datapack/chunk loaders v1.0.11 (MC 1.21-1.21.4).zip"
+hash = "2e5ff3463a587c008f1e1203e4b9c3bf5f74abc937e2676e85355175bd887fad"
+
+[[files]]
+file = "resources/datapack/durability ping v1.1.10 (MC 1.21-1.21.4).zip"
+hash = "c47d51eec684fc049d3b9f9b0a2a98d40f2c6bd6656d51e70cbbe21182b811b7"
 
 [[files]]
 file = "resources/datapack/hero-s-proof-3.0.zip"
@@ -890,14 +918,42 @@ file = "resources/datapack/lukis-crazy-chambers-v1.0.zip"
 hash = "13ebd94833a7d4109e2cfcdbe1b443e66f205a7d0d1d993a0966d29517d6f9cf"
 
 [[files]]
+file = "resources/datapack/more effective tools v1.0.4 (MC 1.21-1.21.4).zip"
+hash = "3e5fd32d41d5cac8a06db3bd695192a16d7b987a0f71dee7a296726cf82c682c"
+
+[[files]]
+file = "resources/datapack/storm channeling v1.0.2 (MC 1.21-1.21.4).zip"
+hash = "df1513918aa4fac35a19f854af83c4d974f4fdfbf74351bbe5ca1196a21152f5"
+
+[[files]]
 file = "resources/datapack/the-expansion.pw.toml"
 hash = "4c9fb624c822e8d9e74c03d859fc67df7ba6eb301e01d3a2926d2a7c6bdb6eb6"
 metafile = true
 
 [[files]]
+file = "resources/datapack/timber v2.1.12 (MC 1.21-1.21.4).zip"
+hash = "024d6cb96a09cb26ea3a455b98bdda2ab163cf99fb267b9b33ee0648eede05f6"
+
+[[files]]
+file = "resources/datapack/unlock all recipes v2.0.11 (MC 1.21-1.21.4).zip"
+hash = "40bd7d9f8f151033a206d7ea20a72dd5067a23c1e161e02fc18fb341dab66ab6"
+
+[[files]]
 file = "resources/resourcepack/optional/twemoji-visibility.pw.toml"
 hash = "8b267c3f723ba9c4abbf57047bede0d937cbbe2982659c7cdf3aafccbec4b16d"
 metafile = true
+
+[[files]]
+file = "resources/resourcepack/required/Lunarie Loading Screen.zip"
+hash = "cd013e8327a3d88decdfcdcb088db75f8906650b90facf7752e5c0d87b8acdee"
+
+[[files]]
+file = "resources/resourcepack/required/Lunarie Meme Pack.zip"
+hash = "cb8b2b097e9a01f599bdc728b581259d67f26d2a8eec101b7d518471cdaee873"
+
+[[files]]
+file = "resources/resourcepack/required/Lunarie Tweaks.zip"
+hash = "590cf304d22052ff7e3e1e5b4f096a71b11948efe0919333255c083c4b15d903"
 
 [[files]]
 file = "resources/resourcepack/required/Quests Journey [RP].zip"
