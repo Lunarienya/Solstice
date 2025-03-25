@@ -346,6 +346,11 @@ hash = "98a18a0e9231a9e134dc5baac97a19050bbd5a4683c7beec92c568eb045ab44a"
 metafile = true
 
 [[files]]
+file = "mods/floodgate.pw.toml"
+hash = "96d6e112e0ae11b4545489709467900ec476066f1d34800d829eb9296c3a84fa"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "00d9b198ef82ecc127e22b10cb02798bf4170d8284a2f8b80a96d8275a490b35"
 metafile = true
@@ -371,6 +376,11 @@ hash = "0236c2b2d9d5d12b0eb0ad36889ef3f378cecc5399a8563bff80e183cbdbd9c2"
 metafile = true
 
 [[files]]
+file = "mods/geyser.pw.toml"
+hash = "d087499a5fd5e3bc67df5c91ed64223b75b1bc029e3c63652dde5df14a4140ed"
+metafile = true
+
+[[files]]
 file = "mods/grass-seeds.pw.toml"
 hash = "289698d37fcd3829c99652f9f1dfd091c378f19e7faac343193a3f072129087b"
 metafile = true
@@ -378,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/hoe-tweaks.pw.toml"
 hash = "c4beeb93ce022216505f3b7c5e9ed9a06614f795bc36695b68a26cff51cf37b8"
+metafile = true
+
+[[files]]
+file = "mods/hurricane.pw.toml"
+hash = "50b0f368eddacd8f3c49c4803853c8b73a0f510328a9d48a41fa726b717f2e97"
 metafile = true
 
 [[files]]
