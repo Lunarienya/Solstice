@@ -470,6 +470,11 @@ hash = "48c5e2ec4e2e2b9dcd289b405bf5ad5b0c2742be9d389c36c4d634dbc381a5c5"
 metafile = true
 
 [[files]]
+file = "mods/keep-the-resourcepack.pw.toml"
+hash = "893f6b55c0da415b51d2590eeedabb0bdbd38c41c22b2a7bf4465d4ea6032b17"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
@@ -692,11 +697,6 @@ metafile = true
 [[files]]
 file = "mods/separatedleaves.pw.toml"
 hash = "eb9d7875d9205325f7dc756222a45cf91c5589504683c5d15770ff3406e45561"
-metafile = true
-
-[[files]]
-file = "mods/server-resource-pack-checker.pw.toml"
-hash = "9df9f352ba70581794f2e1c78e9125319dec85da4d8ddb7fa4e1ebd298158105"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Keep The ResourcePack"
+filename = "KeepTheResourcePack-1.20.3-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rsRuYhVp/versions/pXMx4wHc/KeepTheResourcePack-1.20.3-1.0.jar"
+hash-format = "sha1"
+hash = "35c4c7e47444d7314aed9c969540ff658457ef5a"
+
+[update]
+[update.modrinth]
+mod-id = "rsRuYhVp"
+version = "pXMx4wHc"
