@@ -946,6 +946,10 @@ file = "resources/datapack/Dungeons+ 1.9.0.zip"
 hash = "b67ff6908c2862ab603bf172a19235ba702dffeee6e541e9945ab3994388fcc9"
 
 [[files]]
+file = "resources/datapack/FishingRework.zip"
+hash = "410b17fd3491e1f162ca76cf0e4ae6e0ed4b977bb1fab0347c4d3516e1826e91"
+
+[[files]]
 file = "resources/datapack/Incendium_1.21_UNSUPPORTED_PORT_v5.4.4.zip"
 hash = "6efe2a4f989ea912eb6939c3c20c76c7c4653cbd437cbb4b0d66e282efe6d722"
 
@@ -1038,6 +1042,11 @@ hash = "590cf304d22052ff7e3e1e5b4f096a71b11948efe0919333255c083c4b15d903"
 [[files]]
 file = "resources/resourcepack/required/Quests Journey [RP].zip"
 hash = "ce89b71f9afe3e0b5536a01aa4ef6ecce999956b2990db66152a90147444a8b9"
+
+[[files]]
+file = "resources/resourcepack/required/sparkles.pw.toml"
+hash = "301efb72508f9d304f083b979d280478e5012e90e2a709a0947940e72ccff696"
+metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/ultimate-roleplay-kit-resourcepack.pw.toml"
