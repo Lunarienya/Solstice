@@ -691,6 +691,11 @@ hash = "0023d1952954dcdb88d97ba53be8bb7d02273553236d51f23bbaa9e18c6b8773"
 metafile = true
 
 [[files]]
+file = "mods/silk.pw.toml"
+hash = "307b81e940dfc3a79b0461846411f78e4285434664e74c4bdb7f443c1a6b4ef5"
+metafile = true
+
+[[files]]
 file = "mods/simple-concrete.pw.toml"
 hash = "30a441e0307121cd75ce0169f0b287b8b8bf6fd06f4a97fe931e69d59939a1b8"
 metafile = true
