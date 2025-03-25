@@ -581,6 +581,11 @@ hash = "3bbc8fd3e0e5df5d74f4748d31d210dfe487e1b880c0c04a01806c531a89de52"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+hash = "5ccb85456b866d5ad30bcc793773af6dc9d94cb188418147a562da820a6941ee"
+metafile = true
+
+[[files]]
 file = "mods/pvpsys.pw.toml"
 hash = "06a1f68bead9bc37ebaa8191928406d7633a8b159f110a50f674a2de23133fbb"
 metafile = true
@@ -738,11 +743,6 @@ metafile = true
 [[files]]
 file = "mods/splasher.pw.toml"
 hash = "2023c4d7ac03cc657f303642f890a645a1db07a26b0b046416e2f6ecda88c29b"
-metafile = true
-
-[[files]]
-file = "mods/splashfox.pw.toml"
-hash = "dce83372f3e2b7642fa1ad43096342128de04826cf784cb5765016ad02bdb70b"
 metafile = true
 
 [[files]]
