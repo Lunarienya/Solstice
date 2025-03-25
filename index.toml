@@ -939,6 +939,10 @@ file = "resources/datapack/unlock all recipes v2.0.11 (MC 1.21-1.21.4).zip"
 hash = "40bd7d9f8f151033a206d7ea20a72dd5067a23c1e161e02fc18fb341dab66ab6"
 
 [[files]]
+file = "resources/resourcepack/optional/Lunarie Meme Pack.zip"
+hash = "cb8b2b097e9a01f599bdc728b581259d67f26d2a8eec101b7d518471cdaee873"
+
+[[files]]
 file = "resources/resourcepack/optional/twemoji-visibility.pw.toml"
 hash = "8b267c3f723ba9c4abbf57047bede0d937cbbe2982659c7cdf3aafccbec4b16d"
 metafile = true
@@ -946,10 +950,6 @@ metafile = true
 [[files]]
 file = "resources/resourcepack/required/Lunarie Loading Screen.zip"
 hash = "cd013e8327a3d88decdfcdcb088db75f8906650b90facf7752e5c0d87b8acdee"
-
-[[files]]
-file = "resources/resourcepack/required/Lunarie Meme Pack.zip"
-hash = "cb8b2b097e9a01f599bdc728b581259d67f26d2a8eec101b7d518471cdaee873"
 
 [[files]]
 file = "resources/resourcepack/required/Lunarie Tweaks.zip"
