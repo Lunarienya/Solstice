@@ -826,6 +826,16 @@ hash = "21a8dc7a88c6054c06b571c95b5eb56de05cde57a31d3dd2d5ba3014659f008e"
 metafile = true
 
 [[files]]
+file = "mods/veinminer-enchantment.pw.toml"
+hash = "a814e2ee99719927d19777c4c7b2b99ff896d379be8cd9fabb01a339948ff21f"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "848378c83d1488dd04e0bc059b575decd0973512e82e735c0cc19efb967cc2cf"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "6460f75830dd3760ca29b7f73c0bd8712135ba6a18f8fab32382510c4ff5c4fe"
 metafile = true
