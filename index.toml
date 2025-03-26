@@ -17,6 +17,26 @@ file = "config/semblance.properties"
 hash = "2a5d30dcecc4ccc15c115155535173fae74d5626d896eaa6164d048257ea6e9a"
 
 [[files]]
+file = "config/sodium-fingerprint.json"
+hash = "081b3e561929f3a99fac7fb12e03de0efa8037cc4850afec431c7a1f752b8842"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "496156fefa82c10c8dbcdfd6dd399ea4cf53b2adcff5c1dc6b124ebe777bcc8d"
+
+[[files]]
+file = "config/sodiumdynamiclights-client.toml"
+hash = "10f1464ef3af10a3f90fe1202fcf2be79e9dc3abbe79e7c8dfc5fd70179867ed"
+
+[[files]]
+file = "config/sodiumextras-client.toml"
+hash = "f7fdbf59737e4880c9f41ce7bb2b06d74a80d6a19732d322d6d726a6644edf0a"
+
+[[files]]
 file = "config/xaerominimap-common.txt"
 hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
 
@@ -487,11 +507,6 @@ hash = "48c5e2ec4e2e2b9dcd289b405bf5ad5b0c2742be9d389c36c4d634dbc381a5c5"
 metafile = true
 
 [[files]]
-file = "mods/keep-the-resourcepack.pw.toml"
-hash = "893f6b55c0da415b51d2590eeedabb0bdbd38c41c22b2a7bf4465d4ea6032b17"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
@@ -689,6 +704,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "f7776e7a179846450d87c4d04ea51bcdf779939e7e75354a24101571fe551fd3"
+metafile = true
+
+[[files]]
+file = "mods/resourcepackcached.pw.toml"
+hash = "1c1db7f3bdb81302494dc6fe10bcb3acde8edad0086f25a7da0e90cdb2c6798e"
 metafile = true
 
 [[files]]
@@ -955,6 +975,10 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "33e0320aa588fe9aff80c39ce22b0825f21805e0ff7bbd5e49aaa6b8ab5fa0e5"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "c4345eefadced94caddfe8a45106cee186793ae620a944c25a388f05997f13d2"
 
 [[files]]
 file = "resources/datapack/Dungeons+ 1.9.0.zip"
