@@ -1,0 +1,13 @@
+name = "Chunky Extension"
+filename = "ce-2.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/LFJf0Klb/versions/7e8Rxgsk/ce-2.1.1.jar"
+hash-format = "sha1"
+hash = "def43bba7ce014fa94e6f95adf87115fc5451074"
+
+[update]
+[update.modrinth]
+mod-id = "LFJf0Klb"
+version = "7e8Rxgsk"

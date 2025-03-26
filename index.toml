@@ -225,6 +225,16 @@ hash = "92069c278bf1b9056ffaa60a52604496046e1d1b855cf1f82ba662e0af5f16c8"
 metafile = true
 
 [[files]]
+file = "mods/chunky-extension.pw.toml"
+hash = "75c90b2c04ffc5ec633e0d06297f6ddbf4b4ecd4d06284a2cc49d3a75bd2ae52"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "01735a9d638c8fb4896c1a700eff0954aff8b854b517036bd9688e1d1754a7af"
+metafile = true
+
+[[files]]
 file = "mods/clean-f3.pw.toml"
 hash = "84521ef11288d9db039cb5498aa6e87f079076b2a6dfd95c67c93069d261bf9e"
 metafile = true
