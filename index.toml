@@ -62,6 +62,11 @@ hash = "04459103f52eec13203a7fd666495c215155ea54cb0eee8b5b33eef8b5e28dcb"
 metafile = true
 
 [[files]]
+file = "mods/advancement-border.pw.toml"
+hash = "14aab717535acb007ebcb92de933ded27948e3516b4f642ec01a5c4523af494a"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "9d2a747b7e187cee08ae8b4aecfa8c9038031e844880d63b37871f01c7941add"
 metafile = true
@@ -244,6 +249,11 @@ metafile = true
 [[files]]
 file = "mods/conduits-prevent-drowned.pw.toml"
 hash = "3f29e7418ce86f1ae4c6ff3da0c52beab0ac059b3429a51716c823110f40747a"
+metafile = true
+
+[[files]]
+file = "mods/configuration.pw.toml"
+hash = "46f254f4222f3be2bea18121ee92f0f7b3e1c5ae9a15a45ebae3f7f68014330a"
 metafile = true
 
 [[files]]
@@ -1044,6 +1054,10 @@ hash = "13ebd94833a7d4109e2cfcdbe1b443e66f205a7d0d1d993a0966d29517d6f9cf"
 [[files]]
 file = "resources/datapack/more effective tools v1.0.4 (MC 1.21-1.21.4).zip"
 hash = "3e5fd32d41d5cac8a06db3bd695192a16d7b987a0f71dee7a296726cf82c682c"
+
+[[files]]
+file = "resources/datapack/multiplayer sleep v2.6.10 (MC 1.21-1.21.4).zip"
+hash = "2ea160a6985674a01eef203165d6479d2ed74712579572286b8f37246987d1b5"
 
 [[files]]
 file = "resources/datapack/storm channeling v1.0.2 (MC 1.21-1.21.4).zip"

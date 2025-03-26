@@ -1,0 +1,13 @@
+name = "Configuration"
+filename = "configuration-fabric-1.21.4-3.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3WjjSM5O/versions/KGGvfdkL/configuration-fabric-1.21.4-3.1.1.jar"
+hash-format = "sha1"
+hash = "030096a678bafd3f7383e4612ba50c0bd0a4bf23"
+
+[update]
+[update.modrinth]
+mod-id = "3WjjSM5O"
+version = "KGGvfdkL"

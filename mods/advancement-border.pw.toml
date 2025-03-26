@@ -1,0 +1,13 @@
+name = "Advancement Border"
+filename = "advancementborder-1.1.0+1.21.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/5CeMwTPT/versions/Jat4FiHy/advancementborder-1.1.0%2B1.21.3.jar"
+hash-format = "sha1"
+hash = "66800d0ad5c92073c2d8d99a3a293dc9fbf7d379"
+
+[update]
+[update.modrinth]
+mod-id = "5CeMwTPT"
+version = "Jat4FiHy"
