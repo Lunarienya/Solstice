@@ -988,11 +988,6 @@ hash = "77c7519179b6c5bb90e061606588f34937f42518c8d460c3b4ec2843a0a9127b"
 metafile = true
 
 [[files]]
-file = "mods/whiteout.pw.toml"
-hash = "757efb42e793d65bd08337a6125a58a77e333ba8f7c5d058c2025445db6dbc18"
-metafile = true
-
-[[files]]
 file = "mods/xaeroplus.pw.toml"
 hash = "b511c2dfc0acfcbc93151ebefca67cb7bacae26ae71958d48ee051f16308d4cf"
 metafile = true
