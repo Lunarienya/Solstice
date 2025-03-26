@@ -9,6 +9,10 @@ file = "config/BlossomMods/BlossomTpa.json"
 hash = "b8e05c30d98b55d2d5526d58c9324e1589c43e83043f6bd5b7d8ef0eabb2363d"
 
 [[files]]
+file = "config/automaticoperator.json5"
+hash = "e29d127a774ab0c0dfcd113985dd700d93cfedd3b61b623aefdc2e7d0a803a96"
+
+[[files]]
 file = "config/craftpresence.json"
 hash = "aa387d3e02a49697149afe4733f9821ac2fa60b2a87af1bf16a21dd36096aa8a"
 
@@ -35,6 +39,10 @@ hash = "10f1464ef3af10a3f90fe1202fcf2be79e9dc3abbe79e7c8dfc5fd70179867ed"
 [[files]]
 file = "config/sodiumextras-client.toml"
 hash = "f7fdbf59737e4880c9f41ce7bb2b06d74a80d6a19732d322d6d726a6644edf0a"
+
+[[files]]
+file = "config/styled-chat.json"
+hash = "9167dd07ba1df3457702ded799a95975953d77092661edf2a2b0637a1252627d"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -784,11 +792,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "87dfe81097436c6979c21a29b5b5f3e41fa1c8f25a09b206f7c024eeab9756ef"
-metafile = true
-
-[[files]]
-file = "mods/slumber.pw.toml"
-hash = "c84aa73b8acffbc64bb0d9e4af05243ac6b53c798941e0bf3123aa610c445eee"
 metafile = true
 
 [[files]]
