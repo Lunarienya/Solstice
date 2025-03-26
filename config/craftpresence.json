@@ -134,7 +134,7 @@
       }
     },
     "dynamicIcons": {
-      "default": "https://via.placeholder.com/256.png",
+      "default": "https://via.placeholder.com/256.png"
     },
     "dynamicVariables": {
       "default": "Example Text",

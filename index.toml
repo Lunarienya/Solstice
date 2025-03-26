@@ -10,7 +10,7 @@ hash = "b8e05c30d98b55d2d5526d58c9324e1589c43e83043f6bd5b7d8ef0eabb2363d"
 
 [[files]]
 file = "config/craftpresence.json"
-hash = "ba2ef0c453fdd86eba17f40a8b92fe3a3cca1309a9b9e9c0a24e4aa0ba2f7ddf"
+hash = "aa387d3e02a49697149afe4733f9821ac2fa60b2a87af1bf16a21dd36096aa8a"
 
 [[files]]
 file = "config/semblance.properties"
@@ -988,7 +988,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c4345eefadced94caddfe8a45106cee186793ae620a944c25a388f05997f13d2"
+hash = "d9ba2f0f8ae2ad5631f30babe45c220b266c7975b1c763d33929d99a935e7d72"
 
 [[files]]
 file = "resources/datapack/Dungeons+ 1.9.0.zip"
