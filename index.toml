@@ -1101,3 +1101,7 @@ metafile = true
 file = "resources/resourcepack/required/walletresourcepacks.pw.toml"
 hash = "3888a48f8dc41fa1f918677fed7e802d419ff48ea956c623731d5242449ef12f"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "8563558b0e81ad0d39efcf879846acd6271e2b34e68bfd787c782fc50b49a027"
