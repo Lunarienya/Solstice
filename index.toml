@@ -302,6 +302,11 @@ hash = "75d08c3e37e6647de04ea8ccc9c017e28797e4ffd8c126afc34de36cae01cb0e"
 metafile = true
 
 [[files]]
+file = "mods/edf-remastered.pw.toml"
+hash = "c38113ce82a9c25e28801977030b4e8dee0903c12752511db6ad3c70fc9b530c"
+metafile = true
+
+[[files]]
 file = "mods/edgeless-chat-screen.pw.toml"
 hash = "d708299d6e8f024c4484cf5fac52581532e8f6c80679dc119faf866714163218"
 metafile = true
@@ -647,6 +652,11 @@ hash = "06a1f68bead9bc37ebaa8191928406d7633a8b159f110a50f674a2de23133fbb"
 metafile = true
 
 [[files]]
+file = "mods/qraftys-end-villages.pw.toml"
+hash = "5030f5560199c289c814beefd4559575861adecfc18e5ac9110cfc96469bc003"
+metafile = true
+
+[[files]]
 file = "mods/quad.pw.toml"
 hash = "b0e1d060eb9f18b762a503ff8d619e849e7a9ea486b3216a6ffd9d5a07427e1e"
 metafile = true
@@ -832,6 +842,11 @@ hash = "cbb71c22b6f2054c0f6acd46516a1293a9d128f5c2c891bbbc02bba318bd2c52"
 metafile = true
 
 [[files]]
+file = "mods/text-formatting-everywhere.pw.toml"
+hash = "2fdb1b0bdf23b34202e0077ac73c3d0f745d26d7cb1a3fd8f4b14fc59c9ef34f"
+metafile = true
+
+[[files]]
 file = "mods/tnt-timer.pw.toml"
 hash = "01b460c294892b10422922b9ca13dfaa3286c1d304e49ced777989dfb313be74"
 metafile = true
@@ -976,6 +991,11 @@ hash = "dd3209732947ea3703f99ea27b66ac680b28d02a1070e429d620cb59e2c43cba"
 [[files]]
 file = "resources/datapack/banner-flags-v2-8.zip"
 hash = "1430cb3d92abca3618af71debd68628e11b9872a97fd8e33f8071748b7c7d924"
+
+[[files]]
+file = "resources/datapack/blazeandcaves-advancements-pack.pw.toml"
+hash = "f1e3325fc728bef416e414a113f119e4164e80b974f817577abd7fee762cb0da"
+metafile = true
 
 [[files]]
 file = "resources/datapack/chunk loaders v1.0.11 (MC 1.21-1.21.4).zip"

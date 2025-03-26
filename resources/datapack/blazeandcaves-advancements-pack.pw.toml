@@ -1,0 +1,13 @@
+name = "BlazeandCave's Advancements Pack"
+filename = "BlazeandCave's Advancements Pack 1.18.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VoVJ47kN/versions/i8N5hYLH/BlazeandCave%27s%20Advancements%20Pack%201.18.1.zip"
+hash-format = "sha1"
+hash = "45b8bb0076bbf5b92fde7dc9590c6686937abbc0"
+
+[update]
+[update.modrinth]
+mod-id = "VoVJ47kN"
+version = "i8N5hYLH"
