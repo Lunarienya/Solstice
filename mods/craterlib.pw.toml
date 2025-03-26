@@ -1,0 +1,13 @@
+name = "CraterLib"
+filename = "CraterLib-Fabric-1.21.3-2.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/SORpQLLM/CraterLib-Fabric-1.21.3-2.1.4.jar"
+hash-format = "sha1"
+hash = "c995e6c94f51e2a045fd9e29b4800c3909a6cdbb"
+
+[update]
+[update.modrinth]
+mod-id = "Nn8Wasaq"
+version = "SORpQLLM"

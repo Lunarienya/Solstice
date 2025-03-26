@@ -22,7 +22,7 @@ hash = "c530cdac607d4c31345e680c71fe46a0d971ccaf163c2dc828a7ff767e174312"
 
 [[files]]
 file = "config/craftpresence.json"
-hash = "aa387d3e02a49697149afe4733f9821ac2fa60b2a87af1bf16a21dd36096aa8a"
+hash = "e52fc54b66050e7271785fcb786a82ea6956e3d6bd8d9687a7d92d5d0767b08a"
 
 [[files]]
 file = "config/semblance.properties"
@@ -308,6 +308,11 @@ hash = "24e8a0a284718782288c0c489eff0ca198f43d957a13892362622a51297c8a99"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "1ae8109baa4868145d6436d932dc2c64d6cf79607412f465a80f0178bd468941"
+metafile = true
+
+[[files]]
 file = "mods/crops-love-rain.pw.toml"
 hash = "f69c4f9a74ae4ca89d3ddf0c0b0b09e57c369e98a374ba5749f706d5c8cd4f83"
 metafile = true
@@ -570,6 +575,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "b873c64235d94065526169aeb2157087b738f0aa483feae75c5a0b42610ed8d0"
+metafile = true
+
+[[files]]
+file = "mods/maintenancemode.pw.toml"
+hash = "5b0bf2f3d62509f1ba5c3a137f62eedb557769f362496692d92d4bd84a395306"
 metafile = true
 
 [[files]]

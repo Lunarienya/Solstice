@@ -120,7 +120,7 @@
       "partyPrivacy": 1,
       "details": "{getFirst(menu.message, dimension.message)}",
       "gameState": "Playing on Lunarie: Solstice",
-      "largeImageKey": "Lunarie",
+      "largeImageKey": "lunarie-solstice",
       "largeImageText": "Playing as {player.name}",
       "smallImageKey": "",
       "smallImageText": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
@@ -134,7 +134,8 @@
       }
     },
     "dynamicIcons": {
-      "default": "https://via.placeholder.com/256.png"
+      "default": "https://via.placeholder.com/256.png",
+      "Lunarie": "https://mc-heads.net/avatar/d9bb56c233044410b99fe109a2a357e4"
     },
     "dynamicVariables": {
       "default": "Example Text",
