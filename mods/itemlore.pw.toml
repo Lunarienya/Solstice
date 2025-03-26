@@ -1,0 +1,13 @@
+name = "ItemLore"
+filename = "itemLore-3.2-1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZXr70n5I/versions/7YdAPFe0/itemLore-3.2-1.21.4.jar"
+hash-format = "sha1"
+hash = "6e6d1afb47083aa00f8670e30428e539c8dedaca"
+
+[update]
+[update.modrinth]
+mod-id = "ZXr70n5I"
+version = "7YdAPFe0"

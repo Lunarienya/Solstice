@@ -528,6 +528,11 @@ hash = "980c97c5afa0ae3d4f0683b1d13c0abe1c00c28f8438c0c62388fc2ee61ab2e5"
 metafile = true
 
 [[files]]
+file = "mods/itemlore.pw.toml"
+hash = "c1ff52b9c34df6247af6acd8553a671668471c3ef08923fcf081f7a2e2a7b6b6"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "0ad222ec5adbf0fd620b9ab3297cad73273c97db093aaa28d8f5f779fbfacee1"
 metafile = true
