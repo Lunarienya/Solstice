@@ -1,0 +1,13 @@
+name = "Recipe Advancements Yeeter"
+filename = "recipe-advancements-yeeter-1.21.4-1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ypb9Mccf/versions/Pun2uSVH/recipe-advancements-yeeter-1.21.4-1.2.jar"
+hash-format = "sha1"
+hash = "d5ccf8d76df1094c93c5e48d0799f9f5ede52124"
+
+[update]
+[update.modrinth]
+mod-id = "Ypb9Mccf"
+version = "Pun2uSVH"

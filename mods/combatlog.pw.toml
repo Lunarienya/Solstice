@@ -1,0 +1,13 @@
+name = "Combatlog"
+filename = "combatlog-2.3-1.21.3-4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/nNnLt4Jb/versions/gui8Dn52/combatlog-2.3-1.21.3-4.jar"
+hash-format = "sha1"
+hash = "ad4915723a4e1f5ea6bdc4b9531d9089b052f21a"
+
+[update]
+[update.modrinth]
+mod-id = "nNnLt4Jb"
+version = "gui8Dn52"

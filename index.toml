@@ -9,8 +9,16 @@ file = "config/BlossomMods/BlossomTpa.json"
 hash = "b8e05c30d98b55d2d5526d58c9324e1589c43e83043f6bd5b7d8ef0eabb2363d"
 
 [[files]]
+file = "config/PvPSystem/pvpsystem.properties"
+hash = "97326c8af8415cfc7d74225354b5df1908dd68851f5fa832aecd7c3acaad4dae"
+
+[[files]]
 file = "config/automaticoperator.json5"
 hash = "e29d127a774ab0c0dfcd113985dd700d93cfedd3b61b623aefdc2e7d0a803a96"
+
+[[files]]
+file = "config/combatlog-common.json5"
+hash = "c530cdac607d4c31345e680c71fe46a0d971ccaf163c2dc828a7ff767e174312"
 
 [[files]]
 file = "config/craftpresence.json"
@@ -257,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/collision-fix.pw.toml"
 hash = "f51cfa0397287504a6594fe7f3f2be1162d5bc763594b1701925f046f24cd8d2"
+metafile = true
+
+[[files]]
+file = "mods/combatlog.pw.toml"
+hash = "acff0ff39ac8916a8000dbb63beb3b27d195d25f3c08fdeed3c1478577680b75"
 metafile = true
 
 [[files]]
@@ -712,6 +725,11 @@ metafile = true
 [[files]]
 file = "mods/raid-restore.pw.toml"
 hash = "ca62f691f565a9994e185ace3bdac6bd0fb4e59f674664115185e7e8943e387b"
+metafile = true
+
+[[files]]
+file = "mods/recipe-advancements-yeeter.pw.toml"
+hash = "2013d04f9f34fbc478c69d2cfc5b71b1de27aa5ccbe3d5f3205fe0801055cd6c"
 metafile = true
 
 [[files]]
