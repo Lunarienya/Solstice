@@ -783,6 +783,11 @@ hash = "a8713aef997237a571e9160b4a38bcdcc6aab0ea17c3f19782eed6299297196c"
 metafile = true
 
 [[files]]
+file = "mods/shoutout.pw.toml"
+hash = "6bbb6d7ec37c5ebd44dfb2c3d8d9816df8045e0b1460181d81a2f097ebbd3273"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "b37736264053318c097954ab3005fa72253794db2e7a3d4bcd3dc7a5ea4310aa"
 metafile = true
