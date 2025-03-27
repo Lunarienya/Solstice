@@ -1111,6 +1111,10 @@ file = "resources/resourcepack/optional/Lunarie Meme Pack.zip"
 hash = "cb8b2b097e9a01f599bdc728b581259d67f26d2a8eec101b7d518471cdaee873"
 
 [[files]]
+file = "resources/resourcepack/optional/the-expansion-v2.1-RESOURCEPACK.zip"
+hash = "d2f515e785d3aaf86a004cb400f3b9e91f7cb16ed47a19fdf1f4c12da6a66dc8"
+
+[[files]]
 file = "resources/resourcepack/optional/twemoji-visibility.pw.toml"
 hash = "8b267c3f723ba9c4abbf57047bede0d937cbbe2982659c7cdf3aafccbec4b16d"
 metafile = true
@@ -1131,10 +1135,6 @@ hash = "ce89b71f9afe3e0b5536a01aa4ef6ecce999956b2990db66152a90147444a8b9"
 file = "resources/resourcepack/required/sparkles.pw.toml"
 hash = "301efb72508f9d304f083b979d280478e5012e90e2a709a0947940e72ccff696"
 metafile = true
-
-[[files]]
-file = "resources/resourcepack/required/the-expansion-v2.1-RESOURCEPACK.zip"
-hash = "d2f515e785d3aaf86a004cb400f3b9e91f7cb16ed47a19fdf1f4c12da6a66dc8"
 
 [[files]]
 file = "resources/resourcepack/required/ultimate-roleplay-kit-resourcepack.pw.toml"
