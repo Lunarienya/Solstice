@@ -83,7 +83,7 @@ hideMatchedNames:true
 joinedFirstServer:true
 syncChunkWrites:false
 showAutosaveIndicator:true
-allowServerListing:false
+allowServerListing:true
 onlyShowSecureChat:false
 panoramaScrollSpeed:1.0
 debugifyTelemetry:0

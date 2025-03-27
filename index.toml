@@ -1014,7 +1014,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d9ba2f0f8ae2ad5631f30babe45c220b266c7975b1c763d33929d99a935e7d72"
+hash = "fc4a82a5394cbe3653c1e9d29984437145370351dd07b9d9b170429b581d1ac2"
 
 [[files]]
 file = "resources/datapack/required/Dungeons+ 1.9.0.zip"
