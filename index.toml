@@ -138,11 +138,6 @@ hash = "63097fe300c383716b4f4826f487af31da54f28e717279cc1f6fb01622a1a839"
 metafile = true
 
 [[files]]
-file = "mods/backrooms-server.pw.toml"
-hash = "d3d670be8c2638dbd4794d336a28ff8689ca2719fb2843e1a0ae63be5153c783"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "9e21b9b75ab010dd72ac9d5805a9cf040504505639adf16237291faba80369f0"
 metafile = true
@@ -230,11 +225,6 @@ metafile = true
 [[files]]
 file = "mods/chatplus.pw.toml"
 hash = "92069c278bf1b9056ffaa60a52604496046e1d1b855cf1f82ba662e0af5f16c8"
-metafile = true
-
-[[files]]
-file = "mods/chunky-extension.pw.toml"
-hash = "75c90b2c04ffc5ec633e0d06297f6ddbf4b4ecd4d06284a2cc49d3a75bd2ae52"
 metafile = true
 
 [[files]]
@@ -588,11 +578,6 @@ hash = "5bbdb06abd8fe480ee7d545a19e666955d2068f11cc816e3d12c7b56e768caf9"
 metafile = true
 
 [[files]]
-file = "mods/mcfc.pw.toml"
-hash = "47db36524b0ad15a6cf628d9464f9622d2ea519ee0f2ac88e5f4cafc164d01b5"
-metafile = true
-
-[[files]]
 file = "mods/mcoptimizer.pw.toml"
 hash = "e7252d864401d571580888f93a288db32c3cd87def2712e6081c588a46ceb0d2"
 metafile = true
@@ -698,11 +683,6 @@ hash = "d2ffdbe4bd5797024ff65b5af2816f1ec8c44f2269e924e93c0787fa3c299c95"
 metafile = true
 
 [[files]]
-file = "mods/polysit.pw.toml"
-hash = "0fcf1798acc17f6893f61ee61d8c0c7b9b4ce0b168c5f3f4e11de1bf92e6e70a"
-metafile = true
-
-[[files]]
 file = "mods/pretty-beaches.pw.toml"
 hash = "3bbc8fd3e0e5df5d74f4748d31d210dfe487e1b880c0c04a01806c531a89de52"
 metafile = true
@@ -775,11 +755,6 @@ metafile = true
 [[files]]
 file = "mods/saturated-eating.pw.toml"
 hash = "75f678c9c418cd696f45ed3b1dc2da84f07dd0a49a2d52f41fefa08763b41e24"
-metafile = true
-
-[[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "79e364b2df803b645ce3741fead7a2fb493e8755219b020bb54a9963ddac3d8a"
 metafile = true
 
 [[files]]
