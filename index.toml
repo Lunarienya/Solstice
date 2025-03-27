@@ -623,6 +623,11 @@ hash = "6de4308bde4efc305ec9fe92744d8726ba5b2546c7c1bef7855c10ebd21db3fa"
 metafile = true
 
 [[files]]
+file = "mods/no-creeper-grief.pw.toml"
+hash = "9f57190f2b6b9743ff449fc774f601520aed8439ac1e75f2ccd0b6095ae6e770"
+metafile = true
+
+[[files]]
 file = "mods/no-realms-button.pw.toml"
 hash = "a668361d13928b98f0a721f3ffac7347106acfa93549195911527d7625037639"
 metafile = true
