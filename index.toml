@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/invisible-deity.pw.toml"
-hash = "9dc20838fe5eb62a8986af70c0c97ea64240c6aab90c1599ef26f6138d59d439"
+hash = "7ad84e35cb8bdc25158d105fcd64f3c437146be2f15325f74c95fd5aacef63a8"
 metafile = true
 
 [[files]]

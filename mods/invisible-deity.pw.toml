@@ -1,6 +1,6 @@
 name = "Invisible Deity"
 filename = "invisible-deity-mod-1.1.1+1.21.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/oOiEZ6LB/versions/tpHp42eP/invisible-deity-mod-1.1.1%2B1.21.4.jar"
