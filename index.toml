@@ -46,7 +46,7 @@ hash = "10f1464ef3af10a3f90fe1202fcf2be79e9dc3abbe79e7c8dfc5fd70179867ed"
 
 [[files]]
 file = "config/sodiumextras-client.toml"
-hash = "f7fdbf59737e4880c9f41ce7bb2b06d74a80d6a19732d322d6d726a6644edf0a"
+hash = "1c56df7a1f645395dccc99eee8272d2f52c8d8a44989a5e716fd44c4b901b309"
 
 [[files]]
 file = "config/styled-chat.json"
