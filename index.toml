@@ -18,7 +18,7 @@ hash = "e29d127a774ab0c0dfcd113985dd700d93cfedd3b61b623aefdc2e7d0a803a96"
 
 [[files]]
 file = "config/combatlog-common.json5"
-hash = "c530cdac607d4c31345e680c71fe46a0d971ccaf163c2dc828a7ff767e174312"
+hash = "80b47c4190be615fb9f2c4f40f1a148730e01e9b271ef0dd28b0d28e7ff4d12b"
 
 [[files]]
 file = "config/craftpresence.json"

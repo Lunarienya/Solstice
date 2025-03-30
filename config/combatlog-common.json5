@@ -18,7 +18,7 @@
         // The message that shows when a player exits combat
         outCombat: "You are no longer in combat",
         // This is a list of commands to be blocked while in combat, do not include the slash and use commas to separate them, leave empty to disable, example "home,spawn,rtp"
-        blockedCommands: "tpa,tpahere",
+        blockedCommands: "tpa,tpahere,back,tpaaccept,lastdeath",
         // This is the message displayed in chat when a player attempts to use a blocked command
         blockedCommandMessage: "You are in combat and cannot execute this command"
 }
