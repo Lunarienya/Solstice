@@ -548,6 +548,11 @@ hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
 
 [[files]]
+file = "mods/leash-villager.pw.toml"
+hash = "9fa2e02c68d8ca6e95785081901d818cffc457b1a8e84e0e3eadb20eb2e1f18d"
+metafile = true
+
+[[files]]
 file = "mods/libjf.pw.toml"
 hash = "d7e59a215501be99a094b3812201fbe6c2cdd969ac937a402038c98452c51f84"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Leash Villager"
+filename = "leash-villager-1.1-mc1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PXOlmnke/versions/XsvBLLHm/leash-villager-1.1-mc1.21.4.jar"
+hash-format = "sha1"
+hash = "29f73942dda02ddfe202574ffc04be357694892d"
+
+[update]
+[update.modrinth]
+mod-id = "PXOlmnke"
+version = "XsvBLLHm"
