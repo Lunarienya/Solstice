@@ -1132,6 +1132,11 @@ file = "resources/resourcepack/required/Quests Journey [RP].zip"
 hash = "ce89b71f9afe3e0b5536a01aa4ef6ecce999956b2990db66152a90147444a8b9"
 
 [[files]]
+file = "resources/resourcepack/required/no-potion-particles.pw.toml"
+hash = "77a19e660105951f15c23721f859f99126fdcac390a43bc89c699f6bcd498702"
+metafile = true
+
+[[files]]
 file = "resources/resourcepack/required/sparkles.pw.toml"
 hash = "301efb72508f9d304f083b979d280478e5012e90e2a709a0947940e72ccff696"
 metafile = true

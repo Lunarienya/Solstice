@@ -1,0 +1,13 @@
+name = "No Potion Particles"
+filename = "No Potion Particles.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8055xs5J/versions/piqjkRLC/No%20Potion%20Particles.zip"
+hash-format = "sha1"
+hash = "f078ce3fd5559867b2bce93e73cb301948ed6618"
+
+[update]
+[update.modrinth]
+mod-id = "8055xs5J"
+version = "piqjkRLC"
