@@ -938,16 +938,6 @@ hash = "ab46817bae1ca868a53c0a007fb5edd76b3a1145486ec899d2ccea00cd676dfe"
 metafile = true
 
 [[files]]
-file = "mods/ultimate-roleplay-kit-mail.pw.toml"
-hash = "db01ffe6bdf0ac735ed557a8db6cd7bf809119275aa62346447e0dabaf8a9876"
-metafile = true
-
-[[files]]
-file = "mods/ultimate-roleplay-kit.pw.toml"
-hash = "504dfb834bf297aed83b3ade7952eeaf06380e15f992a0ddf2208f4c1c35f525"
-metafile = true
-
-[[files]]
 file = "mods/unilib.pw.toml"
 hash = "73f9718c089f37a013b844899efc1f0fa6895e41a3313cfda425213616c9c67f"
 metafile = true
@@ -1010,6 +1000,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "33e0320aa588fe9aff80c39ce22b0825f21805e0ff7bbd5e49aaa6b8ab5fa0e5"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "d5fe98870c68ae2b76fffd04ac8ca053559dd2b864e30e418f942f4a9c9dd9ba"
 metafile = true
 
 [[files]]
@@ -1139,11 +1134,6 @@ metafile = true
 [[files]]
 file = "resources/resourcepack/required/sparkles.pw.toml"
 hash = "301efb72508f9d304f083b979d280478e5012e90e2a709a0947940e72ccff696"
-metafile = true
-
-[[files]]
-file = "resources/resourcepack/required/ultimate-roleplay-kit-resourcepack.pw.toml"
-hash = "d5c30b1c47c45c000381e238d8ec68f42e1d9d8d566c3c9e28d98b6ad3d1ba2b"
 metafile = true
 
 [[files]]
