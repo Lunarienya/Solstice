@@ -153,6 +153,11 @@ hash = "009172fa37c8b9e43492c20c9f4fd41a59ae0e651becc82dcd8d3e7f2b75a123"
 metafile = true
 
 [[files]]
+file = "mods/better-bundle.pw.toml"
+hash = "508dea5de5356e3e1b2b0b1a5c4d630631ee4fb06a81b313e6d6e4156197b2f2"
+metafile = true
+
+[[files]]
 file = "mods/better-end-cities-base.pw.toml"
 hash = "0181b1f911d73022d56eb21ad9c37ca8fe6a819f3d043eff0f424fd3c598211f"
 metafile = true
@@ -200,6 +205,11 @@ metafile = true
 [[files]]
 file = "mods/bounty-hunt.pw.toml"
 hash = "4cbd51a6d326d55a6be88f934ca48adfadb2457fe0ca927f85d454dda1285630"
+metafile = true
+
+[[files]]
+file = "mods/bundles-beyond.pw.toml"
+hash = "b153c0c613c6822771d607441b90cadce4db368b3aae0bb1244f6f6c126a2ff5"
 metafile = true
 
 [[files]]

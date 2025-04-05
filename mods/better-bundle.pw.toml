@@ -1,0 +1,13 @@
+name = "Better Bundle"
+filename = "better-bundle-1.5.1-mc1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/6YWokUZ1/versions/8NEGwk3X/better-bundle-1.5.1-mc1.21.4.jar"
+hash-format = "sha1"
+hash = "8e3f90aa3173b9475bd7b604e54ec12a48715064"
+
+[update]
+[update.modrinth]
+mod-id = "6YWokUZ1"
+version = "8NEGwk3X"
