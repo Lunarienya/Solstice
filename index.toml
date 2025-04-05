@@ -548,11 +548,6 @@ hash = "b1512b2131fcf8c61b088afb17e2ea34dfe309ebdb8f0bd242f6481506b76103"
 metafile = true
 
 [[files]]
-file = "mods/keep-some-inventory.pw.toml"
-hash = "48c5e2ec4e2e2b9dcd289b405bf5ad5b0c2742be9d389c36c4d634dbc381a5c5"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
@@ -880,6 +875,11 @@ metafile = true
 [[files]]
 file = "mods/splasher.pw.toml"
 hash = "2023c4d7ac03cc657f303642f890a645a1db07a26b0b046416e2f6ecda88c29b"
+metafile = true
+
+[[files]]
+file = "mods/sswaystones.pw.toml"
+hash = "4874d01440d10ebfde874813b264df2fcd223200641e8b4856004714c8007da3"
 metafile = true
 
 [[files]]
