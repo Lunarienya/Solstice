@@ -103,6 +103,11 @@ hash = "c98c4f57f505fbeaa7692c2822130aff3225836574835ed5541abde4dc57d55a"
 metafile = true
 
 [[files]]
+file = "mods/anonymity.pw.toml"
+hash = "7d9cfddf458f62a946856c0b1b3afce1f1b38f26d2ad250222f0c77521509b71"
+metafile = true
+
+[[files]]
 file = "mods/anvil-restoration.pw.toml"
 hash = "f06b7e724b93a5ffb1ba11ab5090a51b60559c32a844c31aa0302bff55a7ca80"
 metafile = true
@@ -520,11 +525,6 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "1a2be0b68ca1546333e664ce84a2eb217552973240d0e714b30d224d0259a25f"
-metafile = true
-
-[[files]]
-file = "mods/invisible-deity.pw.toml"
-hash = "7ad84e35cb8bdc25158d105fcd64f3c437146be2f15325f74c95fd5aacef63a8"
 metafile = true
 
 [[files]]
@@ -950,6 +950,11 @@ metafile = true
 [[files]]
 file = "mods/unilib.pw.toml"
 hash = "73f9718c089f37a013b844899efc1f0fa6895e41a3313cfda425213616c9c67f"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "ccdb734c33239b694edb96cee3a6c3851d9f9dcaacf419f5fa54c8d955ce7631"
 metafile = true
 
 [[files]]

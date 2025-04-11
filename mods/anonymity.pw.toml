@@ -1,0 +1,13 @@
+name = "Anonymity"
+filename = "anonymity-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/jGQvYcUS/versions/pkbAdvb7/anonymity-1.1.0.jar"
+hash-format = "sha1"
+hash = "7c6df953c1ed642ed31a7eadd206434285580683"
+
+[update]
+[update.modrinth]
+mod-id = "jGQvYcUS"
+version = "pkbAdvb7"
