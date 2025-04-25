@@ -238,11 +238,6 @@ hash = "98a30f05760df517b3d815bc5963eafe8afe0e42e89c02f5ab620ee20d903e67"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "7598b771f1b957fde929ec13696dd7693dce4df4eb7fe6473d1ec1ca352fce69"
-metafile = true
-
-[[files]]
 file = "mods/clean-f3.pw.toml"
 hash = "84521ef11288d9db039cb5498aa6e87f079076b2a6dfd95c67c93069d261bf9e"
 metafile = true
