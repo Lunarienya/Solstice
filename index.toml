@@ -518,11 +518,6 @@ hash = "5ed45a586a58ba6d0ce5d9cb2f3a497e482e2f6ab2ff9f2a4d74ddd161652c16"
 metafile = true
 
 [[files]]
-file = "mods/immersive-aircraft.pw.toml"
-hash = "bdf294ca1737d9a7d6f925d26e44ce9d596a0098cb4c6db3b956541c73ba1e0a"
-metafile = true
-
-[[files]]
 file = "mods/incendium.pw.toml"
 hash = "1a2be0b68ca1546333e664ce84a2eb217552973240d0e714b30d224d0259a25f"
 metafile = true
