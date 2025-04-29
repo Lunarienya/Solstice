@@ -1,13 +1,13 @@
 name = "The Expansion"
-filename = "the-expansion-v2.1-DATAPACK.zip"
+filename = "the-expansion-v2.1a-DATAPACK.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/t3qZik6A/versions/KxK7V2Q1/the-expansion-v2.1-DATAPACK.zip"
+url = "https://cdn.modrinth.com/data/t3qZik6A/versions/tCU4HYvr/the-expansion-v2.1a-DATAPACK.zip"
 hash-format = "sha1"
-hash = "192cf5ef1a44e037b367acdaf815664a4037d46f"
+hash = "b56f326b9a142d75aeee4f113dc6799b8d12c717"
 
 [update]
 [update.modrinth]
 mod-id = "t3qZik6A"
-version = "KxK7V2Q1"
+version = "tCU4HYvr"

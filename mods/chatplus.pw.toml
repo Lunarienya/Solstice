@@ -1,13 +1,13 @@
 name = "ChatPlus"
-filename = "chat-plus-0.21.0-mc1.21.4.jar"
+filename = "chat-plus-1.0.0-mc1.21.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/PVDQIeLz/versions/vaIojGR5/chat-plus-0.21.0-mc1.21.4.jar"
+url = "https://cdn.modrinth.com/data/PVDQIeLz/versions/hIg7e2lP/chat-plus-1.0.0-mc1.21.jar"
 hash-format = "sha1"
-hash = "2ef533f2ded522c3127a663d52ec924ce4cfa095"
+hash = "e26ce09142d0b8c2e7aab8fa7bd919ee07ea4cc0"
 
 [update]
 [update.modrinth]
 mod-id = "PVDQIeLz"
-version = "vaIojGR5"
+version = "hIg7e2lP"

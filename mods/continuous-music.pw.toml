@@ -1,13 +1,13 @@
 name = "Continuous Music"
-filename = "ContinuousMusic-v0.1-mc1.21.4.jar"
+filename = "ContinuousMusic-v0.2-mc1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/1oWLfI3R/versions/nu2jDQIi/ContinuousMusic-v0.1-mc1.21.4.jar"
+url = "https://cdn.modrinth.com/data/1oWLfI3R/versions/olU3hO5r/ContinuousMusic-v0.2-mc1.21.4.jar"
 hash-format = "sha1"
-hash = "5b2a6fe636a51db2ba017d4de4804523a7782f4b"
+hash = "092c7389acd6c90e9a322f15fb5a4e5e1d87ff6d"
 
 [update]
 [update.modrinth]
 mod-id = "1oWLfI3R"
-version = "nu2jDQIi"
+version = "olU3hO5r"

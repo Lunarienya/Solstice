@@ -1,13 +1,13 @@
 name = "Ancestral Archetypes"
-filename = "ancestralarchetypes-1.2.2.jar"
+filename = "ancestralarchetypes-1.2.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/xHHbHfVj/versions/kAt3WijX/ancestralarchetypes-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/xHHbHfVj/versions/tV8klf9i/ancestralarchetypes-1.2.3.jar"
 hash-format = "sha1"
-hash = "8920544a6ec138a2a2b0cbfa488b0ddeae39ba37"
+hash = "c0e0554f16f4f7590247e2b23f33637e3184b613"
 
 [update]
 [update.modrinth]
 mod-id = "xHHbHfVj"
-version = "kAt3WijX"
+version = "tV8klf9i"
